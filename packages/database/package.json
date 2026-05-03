@@ -1,0 +1,1 @@
+{"name":"@mmai/database","private":true,"type":"module","main":"src/index.ts","types":"src/index.ts","scripts":{"typecheck":"tsc --noEmit"},"dependencies":{"drizzle-orm":"^0.36.4","pg":"^8.13.1"}}
